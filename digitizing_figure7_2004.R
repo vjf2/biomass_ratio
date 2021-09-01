@@ -88,13 +88,6 @@ approx_error_nonseagrass <- ((1.96 * approx_sd_nonseagrass) / sqrt(40+373))
 
 #ratio is 8 (range 3-23)
 
-#################FIGURE 2 Heithaus 2002
-
-x2 <- digitize("fig2_2002.png")
-
-
-
-
 
 
 
